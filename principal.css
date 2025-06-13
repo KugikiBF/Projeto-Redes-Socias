@@ -1,0 +1,58 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body, html{
+    background-image: url(Imagens/madeira03.jpg);
+    background-color: darkcyan;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#celular{
+    position: absolute;
+    width: 270px;
+    height: 490px;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
+#celular img{
+    position: absolute;
+    height: 627px;
+    width: 311px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+iframe{
+    position: relative;
+    top: 11px;
+    left: 1px;
+    width: 268px;
+    height: 473px;
+    border: 0px;
+    border-radius: 4px;
+}
+
+#sociais img{
+    position: relative;
+    border-radius: 50%;
+    width: 50px;
+    margin: 15px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.774);
+    text-align: center;
+    
+}
+
+#sociais img:hover{
+    border: 2px solid white;
+    transform: translate(-4px, -4px);
+    transition: transform 0.5s;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.733);
+}
+#sociais{
+    text-align: right;
+}
