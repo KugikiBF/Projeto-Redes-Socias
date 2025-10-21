@@ -11,15 +11,8 @@ Este é um projeto de front-end que simula a tela de um celular (iPhone) exibind
 
 Você pode visualizar o projeto em funcionamento através do GitHub Pages:
 
-**[Clique aqui para acessar a demonstração](https://SEU-USERNAME.github.io/NOME-DO-REPOSITORIO/)**
+**[Clique aqui para acessar a demonstração](https://kugikibf.github.io/Projeto-Redes-Socias/)**
 
-*(Não se esqueça de substituir `SEU-USERNAME` e `NOME-DO-REPOSITORIO` pelos seus dados)*
-
-## 📸 Screenshot
-
-*(**Recomendação de Recrutador:** Adicione um GIF ou uma imagem estática aqui para que os visitantes possam ver seu projeto em ação imediatamente. Isso aumenta o engajamento em mais de 80%.)*
-
-![Demonstração do Projeto](link-para-sua-imagem-ou-gif.gif)
 
 ## 🎯 Objetivo do Projeto
 
@@ -50,9 +43,9 @@ Este projeto foi construído utilizando:
 
 ## 👨‍💻 Autor
 
-Feito por **[Seu Nome]**.
+Feito por **Bruno Felipe Mafra Lacerda**.
 
 Conecte-se comigo:
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN/)
-* [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USERNAME)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-felipe-7956bb351/)
+* [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KugikiBF)
